@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Bourahima COULIBALY
 
 # Is this the primary user of the site?
 superuser: true
@@ -45,10 +45,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: github
     icon_pack: fab
     link: https://twitter.com/wowchemy
-  - icon: instagram
+  - icon: linkedin
     icon_pack: fab
     link: https://instagram.com/geocushen
 # Uncomment below for Github link
