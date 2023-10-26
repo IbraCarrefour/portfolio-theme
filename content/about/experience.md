@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2022-09-26'
+    date_end: '2022-09-04'
     description: |2-
         Responsibilities include:
         
