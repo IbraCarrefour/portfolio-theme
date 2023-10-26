@@ -25,7 +25,7 @@ experience:
   - title: M2 Data Science 
     company: Université Paris-Saclay
     company_url: ''
-    company_logo: org-x
+    company_logo: org-gc
     location: Essonne
     date_start: '2022-09-01'
     date_end: '2023-09-04'
